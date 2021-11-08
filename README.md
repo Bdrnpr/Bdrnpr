@@ -1,12 +1,12 @@
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+<h2 align="center">Hi 👋, I'm Bedran</h2>
+
+## 📅 Hobbies
+- Watch movie and Tv shows
+- Draw comics
+- Play videogames
+- etc.
+## 🎵 Spotify
+
+<a href="https://open.spotify.com/playlist/2glnfinVDyItpaXJbJMXph">
+  <img src="https://www.cmuse.org/wp-content/uploads/2020/06/Characteristics-of-Country-Music.jpg" width="241" height="200" alt="My Playlist">
+</a>
