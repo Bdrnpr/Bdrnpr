@@ -7,4 +7,3 @@
   <a href="https://www.linkedin.com/in/bedran-piro-49a226155/"><img alt="Linkedin" height="38" width="38" src="icon/linkedin.svg"></a>
   
   
-[![Bedran's github stats](https://github-readme-stats.vercel.app/api?username=Bdrnpr&show_icons=true&theme=github_dark)](https://github.com/Bdrnpr)
